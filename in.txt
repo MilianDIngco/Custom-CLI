@@ -1,0 +1,3 @@
+Sample test to run
+Use command cat < in.txt
+Hello there!
